@@ -3,15 +3,12 @@ const cors = require("cors");
 require("dotenv").config();
 const app = express();
 
-const axios = require("axios");
-const fs = require("fs");
-
 const port = process.env.PORT || 5050;
 
 app.use(cors);
 
 app.get("/", (req, res) => {
-  res.send("Hello");
+  res.send("Hello World!");
 });
 
 app.listen(port, function () {
