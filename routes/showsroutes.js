@@ -8,8 +8,4 @@ const showsController = require(path.join(
 //ROUTES
 router.route("/").get(showsController.list);
 
-router.route("/:id").get(showsController.idSession);
-
-router.route("/:id/signup").get(showsController.authenticateSignup, showsController.idSignup);
-
 module.exports = router;
