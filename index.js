@@ -7,12 +7,14 @@ const path = require("path");
 const port = process.env.PORT || 5050;
 
 
-const showRoutes = require(path.join(__dirname, "/routes/showsroutes"));
+const showsRoutes = require(path.join(__dirname, "/routes/showsroutes"));
+const showSession = require(path.join(__dirname, "/routes/sessionroutes"));
 
 app.use(express.json());
 app.use(cors());
 
-app.use("/shows", showRoutes);
+app.use("/shows", showsRoutes);
+app.use("/session", showSession);
 
 app.get("/", (req, res) => {
   res.send("Hello World!");
