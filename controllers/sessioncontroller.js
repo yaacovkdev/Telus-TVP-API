@@ -1,5 +1,4 @@
 const db = require("knex")(require("../knexfile"));const active_sessions = [];
-const { uuid } = require("uuidv4");
 const jwt = require("jsonwebtoken");
 
 //every 15 minutes there will be a scan of sessions
@@ -64,7 +63,11 @@ const idSignup = async(req, res) => {
 //finish later
 const idSession = async(req, res) => {
   const id = req.decodedToken.id;
-  console.log(req.query.name);
+  console.log(req.query);
+
+  //query arrays like this actually work. Thank PHP Wizards on the internet
+  //?cars[]=Saab&cars[]=Audi
+
   try {
     
   } catch(error) {
