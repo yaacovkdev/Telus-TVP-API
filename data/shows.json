@@ -1,0 +1,1884 @@
+[
+  {
+    "id": 1,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "origin_country": [
+      "US",
+      "CA",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Galactic Giggles",
+    "overview": "A hilarious sci-fi comedy series set in a distant future where aliens and humans coexist, following the misadventures of a motley crew aboard a malfunctioning spaceship.",
+    "popularity": 1550.12,
+    "first_air_date": "2023-06-10",
+    "name": "Galactic Giggles",
+    "channel": "Hayu",
+    "vote_average": 8.1,
+    "vote_count": 34
+  },
+  {
+    "id": 2,
+    "genres": [
+      "Drama"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Echoes of Time",
+    "overview": "In a small town where everyone knows each other's secrets, a mysterious stranger arrives and disrupts the delicate balance, uncovering dark truths and hidden pasts.",
+    "popularity": 2345.67,
+    "first_air_date": "2022-10-15",
+    "name": "Echoes of Time",
+    "channel": "Netflix",
+    "vote_average": 8.5,
+    "vote_count": 42
+  },
+  {
+    "id": 3,
+    "genres": [
+      "Comedy"
+    ],
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Banter & Brew",
+    "overview": "A group of friends navigate the ups and downs of life, love, and career, all while meeting weekly at their favorite local pub to share laughs and support each other.",
+    "popularity": 1873.21,
+    "first_air_date": "2021-05-22",
+    "name": "Banter & Brew",
+    "channel": "Crave",
+    "vote_average": 7.9,
+    "vote_count": 25
+  },
+  {
+    "id": 4,
+    "genres": [
+      "Science Fiction"
+    ],
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Future's Edge",
+    "overview": "In a dystopian future where technology controls every aspect of life, a group of rebels fights against the oppressive regime to restore humanity's freedom and individuality.",
+    "popularity": 1567.89,
+    "first_air_date": "2023-01-12",
+    "name": "Future's Edge",
+    "channel": "Apple",
+    "vote_average": 7.2,
+    "vote_count": 18
+  },
+  {
+    "id": 5,
+    "genres": [
+      "Mystery"
+    ],
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Whispering Pines",
+    "overview": "When a renowned detective moves to a quiet mountain town to escape his past, he finds himself drawn into a series of local mysteries that threaten to unravel the peace he seeks.",
+    "popularity": 1452.34,
+    "first_air_date": "2020-08-30",
+    "name": "Whispering Pines",
+    "channel": "TLC",
+    "vote_average": 8,
+    "vote_count": 36
+  },
+  {
+    "id": 6,
+    "genres": [
+      "Fantasy"
+    ],
+    "origin_country": [
+      "NZ"
+    ],
+    "original_language": "en",
+    "original_name": "Realm of Shadows",
+    "overview": "In a world where mythical creatures and magic are real, a young hero embarks on a quest to unite the kingdoms and defeat an ancient evil threatening to destroy everything.",
+    "popularity": 1789.45,
+    "first_air_date": "2021-11-05",
+    "name": "Realm of Shadows",
+    "channel": "TLC",
+    "vote_average": 8.3,
+    "vote_count": 29
+  },
+  {
+    "id": 7,
+    "genres": [
+      "Thriller"
+    ],
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "en",
+    "original_name": "Silent Echo",
+    "overview": "A journalist uncovers a chilling conspiracy that leads her down a dangerous path, as she races against time to reveal the truth before she becomes the next target.",
+    "popularity": 1964.32,
+    "first_air_date": "2022-02-17",
+    "name": "Silent Echo",
+    "channel": "Prime",
+    "vote_average": 7.7,
+    "vote_count": 41
+  },
+  {
+    "id": 8,
+    "genres": [
+      "Romance"
+    ],
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "en",
+    "original_name": "Parisian Dreams",
+    "overview": "An American artist moves to Paris to find inspiration and discovers love, friendship, and the beauty of the city, as she navigates the challenges of starting anew in a foreign land.",
+    "popularity": 1423.98,
+    "first_air_date": "2021-06-19",
+    "name": "Parisian Dreams",
+    "channel": "Hayu",
+    "vote_average": 8.1,
+    "vote_count": 33
+  },
+  {
+    "id": 9,
+    "genres": [
+      "Crime"
+    ],
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "en",
+    "original_name": "Undercover Justice",
+    "overview": "A brilliant but unconventional detective goes undercover in the criminal underworld to take down a powerful mafia boss, risking everything to bring justice to the city.",
+    "popularity": 1798.76,
+    "first_air_date": "2023-03-10",
+    "name": "Undercover Justice",
+    "channel": "Prime",
+    "vote_average": 8.4,
+    "vote_count": 24
+  },
+  {
+    "id": 10,
+    "genres": [
+      "Adventure"
+    ],
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "en",
+    "original_name": "Lost Horizon",
+    "overview": "A group of explorers sets out on a dangerous journey to find a lost civilization hidden deep within an uncharted jungle, facing perilous obstacles and uncovering ancient secrets.",
+    "popularity": 1542.87,
+    "first_air_date": "2022-07-14",
+    "name": "Lost Horizon",
+    "channel": "SNWD",
+    "vote_average": 7.5,
+    "vote_count": 28
+  },
+  {
+    "id": 11,
+    "genres": [
+      "Horror"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Nightfall",
+    "overview": "When the sun sets, the real horror begins. A small town is plagued by terrifying creatures that emerge at night, and a group of residents must fight to survive until dawn.",
+    "popularity": 1654.29,
+    "first_air_date": "2023-04-28",
+    "name": "Nightfall",
+    "channel": "Prime",
+    "vote_average": 8.2,
+    "vote_count": 38
+  },
+  {
+    "id": 12,
+    "genres": [
+      "Action"
+    ],
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "en",
+    "original_name": "Warrior's Path",
+    "overview": "A skilled martial artist seeks revenge against a powerful crime syndicate that killed his family, embarking on a relentless quest for justice and redemption.",
+    "popularity": 1894.57,
+    "first_air_date": "2021-09-03",
+    "name": "Warrior's Path",
+    "channel": "Apple",
+    "vote_average": 8,
+    "vote_count": 27
+  },
+  {
+    "id": 13,
+    "genres": [
+      "Documentary"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Nature's Wonders",
+    "overview": "Explore the most breathtaking natural landscapes and the incredible wildlife that inhabits them, from the depths of the oceans to the highest mountain peaks.",
+    "popularity": 1345.87,
+    "first_air_date": "2020-04-10",
+    "name": "Nature's Wonders",
+    "channel": "Prime",
+    "vote_average": 9.1,
+    "vote_count": 50
+  },
+  {
+    "id": 14,
+    "genres": [
+      "Animation"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Galactic Adventures",
+    "overview": "Join a team of space explorers as they travel through the galaxy, encountering alien species, discovering new worlds, and facing interstellar challenges.",
+    "popularity": 1243.56,
+    "first_air_date": "2022-01-05",
+    "name": "Galactic Adventures",
+    "channel": "Nexflix",
+    "vote_average": 8.8,
+    "vote_count": 45
+  },
+  {
+    "id": 15,
+    "genres": [
+      "Reality"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Real Housemates",
+    "overview": "Follow the lives of seven strangers living together in a luxurious house as they navigate relationships, conflicts, and drama, all captured on camera 24/7.",
+    "popularity": 1376.45,
+    "first_air_date": "2021-03-15",
+    "name": "The Real Housemates",
+    "channel": "SNWD",
+    "vote_average": 6.9,
+    "vote_count": 32
+  },
+  {
+    "id": 16,
+    "genres": [
+      "Western"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Riders of the West",
+    "overview": "In the lawless Wild West, a band of outlaws and a group of vigilantes clash in a battle for control over a small frontier town, with justice hanging in the balance.",
+    "popularity": 1298.54,
+    "first_air_date": "2020-09-20",
+    "name": "Riders of the West",
+    "channel": "Paramount",
+    "vote_average": 7.6,
+    "vote_count": 27
+  },
+  {
+    "id": 17,
+    "genres": [
+      "Musical"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Broadway Dreams",
+    "overview": "Aspiring performers from across the country compete for a chance to star in a major Broadway production, showcasing their singing, dancing, and acting talents.",
+    "popularity": 1456.78,
+    "first_air_date": "2022-11-10",
+    "name": "Broadway Dreams",
+    "channel": "TLC",
+    "vote_average": 7.8,
+    "vote_count": 34
+  },
+  {
+    "id": 18,
+    "genres": [
+      "Historical"
+    ],
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Empire of Kings",
+    "overview": "Set in the turbulent times of the Middle Ages, this epic drama follows the rise and fall of powerful monarchs, the battles for supremacy, and the intrigue of court politics.",
+    "popularity": 1687.43,
+    "first_air_date": "2023-05-18",
+    "name": "Empire of Kings",
+    "channel": "TLC",
+    "vote_average": 8.4,
+    "vote_count": 40
+  },
+  {
+    "id": 19,
+    "genres": [
+      "Supernatural"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Haunted Legends",
+    "overview": "A team of paranormal investigators explores haunted locations across the country, uncovering the dark history and supernatural phenomena that plague these mysterious places.",
+    "popularity": 1578.32,
+    "first_air_date": "2021-10-31",
+    "name": "Haunted Legends",
+    "channel": "SNWD",
+    "vote_average": 8,
+    "vote_count": 35
+  },
+  {
+    "id": 20,
+    "genres": [
+      "Biography"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Icons of History",
+    "overview": "This series chronicles the lives of the most influential figures in history, from their humble beginnings to their extraordinary achievements and lasting legacies.",
+    "popularity": 1432.21,
+    "first_air_date": "2020-12-25",
+    "name": "Icons of History",
+    "channel": "TLC",
+    "vote_average": 9,
+    "vote_count": 48
+  },
+  {
+    "id": 21,
+    "genres": [
+      "Family"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Family Ties",
+    "overview": "A heartwarming series that follows the everyday lives and challenges of a multi-generational family, highlighting the bonds that hold them together through thick and thin.",
+    "popularity": 1349.76,
+    "first_air_date": "2021-08-01",
+    "name": "Family Ties",
+    "channel": "Apple",
+    "vote_average": 8.3,
+    "vote_count": 30
+  },
+  {
+    "id": 22,
+    "genres": [
+      "Sitcom"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Office Shenanigans",
+    "overview": "A hilarious look at the daily antics and misadventures of employees at a quirky office, where every day brings new surprises and comedic chaos.",
+    "popularity": 1523.45,
+    "first_air_date": "2022-02-28",
+    "name": "Office Shenanigans",
+    "channel": "Hayu",
+    "vote_average": 7.5,
+    "vote_count": 31
+  },
+  {
+    "id": 23,
+    "genres": [
+      "Sport"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Champions' Quest",
+    "overview": "Follow the intense journey of athletes from various sports as they compete for glory, overcoming personal and professional challenges to achieve their dreams.",
+    "popularity": 1410.23,
+    "first_air_date": "2023-03-22",
+    "name": "Champions' Quest",
+    "channel": "TLC",
+    "vote_average": 8.1,
+    "vote_count": 37
+  },
+  {
+    "id": 24,
+    "genres": [
+      "Legal"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Justice Served",
+    "overview": "In a high-stakes legal drama, a brilliant but troubled lawyer takes on challenging cases, seeking justice for her clients while battling her own personal demons.",
+    "popularity": 1650.34,
+    "first_air_date": "2021-05-10",
+    "name": "Justice Served",
+    "channel": "Apple",
+    "vote_average": 8.2,
+    "vote_count": 26
+  },
+  {
+    "id": 25,
+    "genres": [
+      "War"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Battlefront",
+    "overview": "This gripping war series takes viewers into the heart of battle, portraying the courage, sacrifice, and camaraderie of soldiers fighting on the front lines.",
+    "popularity": 1498.67,
+    "first_air_date": "2022-06-15",
+    "name": "Battlefront",
+    "channel": "Paramount",
+    "vote_average": 8,
+    "vote_count": 29
+  },
+  {
+    "id": 26,
+    "genres": [
+      "Mystery"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hidden Secrets",
+    "overview": "A small coastal town is rocked by a series of mysterious disappearances, and a determined detective must uncover the hidden secrets that lie beneath the surface.",
+    "popularity": 1587.65,
+    "first_air_date": "2021-09-22",
+    "name": "Hidden Secrets",
+    "channel": "TLC",
+    "vote_average": 7.8,
+    "vote_count": 34
+  },
+  {
+    "id": 27,
+    "genres": [
+      "Comedy"
+    ],
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Laughing Matter",
+    "overview": "In this witty British comedy, a stand-up comedian navigates the ups and downs of his career, balancing the pressures of fame with his chaotic personal life.",
+    "popularity": 1425.43,
+    "first_air_date": "2022-11-20",
+    "name": "The Laughing Matter",
+    "channel": "Paramount",
+    "vote_average": 8,
+    "vote_count": 27
+  },
+  {
+    "id": 28,
+    "genres": [
+      "Drama"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hearts on Fire",
+    "overview": "A dramatic series that explores the intense world of competitive ballroom dancing, where passion, ambition, and rivalry drive dancers to the heights of glory and the depths of despair.",
+    "popularity": 1378.32,
+    "first_air_date": "2023-04-03",
+    "name": "Hearts on Fire",
+    "channel": "Crave",
+    "vote_average": 7.7,
+    "vote_count": 33
+  },
+  {
+    "id": 29,
+    "genres": [
+      "Science Fiction"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Cosmic Odyssey",
+    "overview": "A crew of astronauts embarks on a daring mission to explore a distant planet, uncovering alien civilizations and facing unknown dangers in the vast expanse of space.",
+    "popularity": 1745.32,
+    "first_air_date": "2022-08-10",
+    "name": "Cosmic Odyssey",
+    "channel": "Hayu",
+    "vote_average": 8.3,
+    "vote_count": 35
+  },
+  {
+    "id": 30,
+    "genres": [
+      "Crime"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "City Undercover",
+    "overview": "An undercover cop infiltrates a notorious crime syndicate in the heart of the city, risking his life to gather evidence and bring down the criminal empire from within.",
+    "popularity": 1665.78,
+    "first_air_date": "2023-01-29",
+    "name": "City Undercover",
+    "channel": "Hayu",
+    "vote_average": 8.1,
+    "vote_count": 38
+  },
+  {
+    "id": 31,
+    "genres": [
+      "Adventure"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Quest for the Lost City",
+    "overview": "A team of archaeologists sets out to find a legendary lost city, braving treacherous terrain and ancient traps to uncover the secrets of a forgotten civilization.",
+    "popularity": 1532.67,
+    "first_air_date": "2022-04-18",
+    "name": "Quest for the Lost City",
+    "channel": "Prime",
+    "vote_average": 7.9,
+    "vote_count": 31
+  },
+  {
+    "id": 32,
+    "genres": [
+      "Fantasy"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Enchanted Kingdom",
+    "overview": "In a magical realm where humans coexist with fantastical creatures, a young prince must unite the kingdoms to fend off a looming dark force threatening their world.",
+    "popularity": 1789.45,
+    "first_air_date": "2023-02-14",
+    "name": "Enchanted Kingdom",
+    "channel": "Netflix",
+    "vote_average": 8.4,
+    "vote_count": 37
+  },
+  {
+    "id": 33,
+    "genres": [
+      "Thriller"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Silent Watcher",
+    "overview": "A former FBI agent with a dark past becomes a private investigator, uncovering secrets and solving crimes that others can't, while battling his own inner demons.",
+    "popularity": 1654.76,
+    "first_air_date": "2021-11-08",
+    "name": "The Silent Watcher",
+    "channel": "Netflix",
+    "vote_average": 8.1,
+    "vote_count": 29
+  },
+  {
+    "id": 34,
+    "genres": [
+      "Romance"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Love in Bloom",
+    "overview": "A heartwarming story of two people from different worlds who find each other and fall in love amidst the blooming flowers of a small, charming town.",
+    "popularity": 1432.89,
+    "first_air_date": "2022-06-23",
+    "name": "Love in Bloom",
+    "channel": "Prime",
+    "vote_average": 7.9,
+    "vote_count": 25
+  },
+  {
+    "id": 35,
+    "genres": [
+      "Action"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Guardian Force",
+    "overview": "A team of elite operatives is assembled to take on dangerous missions around the globe, using their skills and cutting-edge technology to protect the world from imminent threats.",
+    "popularity": 1784.67,
+    "first_air_date": "2023-05-20",
+    "name": "Guardian Force",
+    "channel": "Apple",
+    "vote_average": 8.5,
+    "vote_count": 40
+  },
+  {
+    "id": 36,
+    "genres": [
+      "Science Fiction"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Time Travelers",
+    "overview": "A group of scientists invent a time machine and embark on adventures across different eras, altering the course of history and facing unforeseen consequences.",
+    "popularity": 1623.45,
+    "first_air_date": "2021-07-12",
+    "name": "Time Travelers",
+    "channel": "Hayu",
+    "vote_average": 8,
+    "vote_count": 28
+  },
+  {
+    "id": 37,
+    "genres": [
+      "Mystery"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Enigma Files",
+    "overview": "A brilliant but reclusive detective is called out of retirement to solve a series of baffling cases, each more complex and mysterious than the last.",
+    "popularity": 1576.54,
+    "first_air_date": "2022-10-25",
+    "name": "The Enigma Files",
+    "channel": "Hayu",
+    "vote_average": 7.8,
+    "vote_count": 32
+  },
+  {
+    "id": 38,
+    "genres": [
+      "Drama"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tides of Destiny",
+    "overview": "In a coastal town, the intertwined lives of residents unfold as they navigate love, betrayal, and ambition, with the ever-changing tides mirroring their turbulent emotions.",
+    "popularity": 1498.76,
+    "first_air_date": "2023-04-05",
+    "name": "Tides of Destiny",
+    "channel": "TLC",
+    "vote_average": 7.7,
+    "vote_count": 31
+  },
+  {
+    "id": 39,
+    "genres": [
+      "Documentary"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "History Unveiled",
+    "overview": "Delve into the untold stories and hidden facts of historical events, as experts and historians shed light on the past, revealing its impact on the present and future.",
+    "popularity": 1423.56,
+    "first_air_date": "2021-09-10",
+    "name": "History Unveiled",
+    "channel": "Prime",
+    "vote_average": 8.9,
+    "vote_count": 45
+  },
+  {
+    "id": 40,
+    "genres": [
+      "Animation"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Mythical Adventures",
+    "overview": "Join a group of young heroes on their adventures in a fantastical world filled with mythical creatures, magical quests, and epic battles against dark forces.",
+    "popularity": 1248.67,
+    "first_air_date": "2022-03-15",
+    "name": "Mythical Adventures",
+    "channel": "Netflix",
+    "vote_average": 8.5,
+    "vote_count": 39
+  },
+  {
+    "id": 41,
+    "genres": [
+      "Reality"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Survivor: Extreme",
+    "overview": "Contestants are pushed to their limits in extreme environments, facing grueling challenges and tough conditions as they vie for the title of ultimate survivor.",
+    "popularity": 1452.34,
+    "first_air_date": "2023-04-10",
+    "name": "Survivor: Extreme",
+    "channel": "Hayu",
+    "vote_average": 7.2,
+    "vote_count": 27
+  },
+  {
+    "id": 42,
+    "genres": [
+      "Western"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Frontier Justice",
+    "overview": "In the rugged frontier, a former sheriff seeks to bring justice to a lawless land, facing off against outlaws and corrupt officials in a battle for the soul of the West.",
+    "popularity": 1323.56,
+    "first_air_date": "2021-11-22",
+    "name": "Frontier Justice",
+    "channel": "Prime",
+    "vote_average": 7.6,
+    "vote_count": 26
+  },
+  {
+    "id": 43,
+    "genres": [
+      "Horror"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Nightmares Unleashed",
+    "overview": "A group of friends must confront their deepest fears when they discover that the haunted house attraction they are visiting is more than just a spooky spectacle.",
+    "popularity": 1573.89,
+    "first_air_date": "2022-10-31",
+    "name": "Nightmares Unleashed",
+    "channel": "Netflix",
+    "vote_average": 7.9,
+    "vote_count": 28
+  },
+  {
+    "id": 44,
+    "genres": [
+      "Science Fiction"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Beyond the Stars",
+    "overview": "In a future where humanity has colonized distant planets, a space explorer uncovers a hidden conspiracy that threatens the survival of all human colonies.",
+    "popularity": 1678.34,
+    "first_air_date": "2022-09-05",
+    "name": "Beyond the Stars",
+    "channel": "Hayu",
+    "vote_average": 8.4,
+    "vote_count": 33
+  },
+  {
+    "id": 45,
+    "genres": [
+      "Fantasy"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dragon's Reign",
+    "overview": "In a world where dragons and humans coexist, a young warrior must forge an alliance with a powerful dragon to defeat an ancient evil threatening their land.",
+    "popularity": 1756.78,
+    "first_air_date": "2023-03-12",
+    "name": "Dragon's Reign",
+    "channel": "Netflix",
+    "vote_average": 8.5,
+    "vote_count": 40
+  },
+  {
+    "id": 46,
+    "genres": [
+      "Romance"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hearts Entwined",
+    "overview": "A touching romance series that follows the lives of two star-crossed lovers as they navigate the complexities of love, family, and societal expectations.",
+    "popularity": 1374.45,
+    "first_air_date": "2022-07-19",
+    "name": "Hearts Entwined",
+    "channel": "Crave",
+    "vote_average": 7.6,
+    "vote_count": 29
+  },
+  {
+    "id": 47,
+    "genres": [
+      "Thriller"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Shadow Game",
+    "overview": "A cat-and-mouse thriller where an elusive thief and a determined detective are locked in a high-stakes game, with each move bringing them closer to a dangerous confrontation.",
+    "popularity": 1607.89,
+    "first_air_date": "2021-11-15",
+    "name": "The Shadow Game",
+    "channel": "Apple",
+    "vote_average": 8.2,
+    "vote_count": 30
+  },
+  {
+    "id": 48,
+    "genres": [
+      "Horror"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Whispers in the Dark",
+    "overview": "A chilling horror series that follows a group of friends who uncover a cursed artifact, leading to a series of terrifying events that force them to confront their deepest fears.",
+    "popularity": 1523.76,
+    "first_air_date": "2022-10-12",
+    "name": "Whispers in the Dark",
+    "channel": "Hayu",
+    "vote_average": 7.9,
+    "vote_count": 28
+  },
+  {
+    "id": 49,
+    "genres": [
+      "Documentary"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Nature's Wonders",
+    "overview": "An awe-inspiring documentary series that explores the most breathtaking natural landscapes and wildlife on Earth, revealing the beauty and complexity of our planet.",
+    "popularity": 1442.34,
+    "first_air_date": "2021-05-25",
+    "name": "Nature's Wonders",
+    "channel": "Prime",
+    "vote_average": 8.7,
+    "vote_count": 35
+  },
+  {
+    "id": 50,
+    "genres": [
+      "Fantasy"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Mystic Realm",
+    "overview": "In a mystical world where magic is real, a young sorcerer embarks on a quest to find an ancient artifact that can save his kingdom from a looming darkness.",
+    "popularity": 1589.45,
+    "first_air_date": "2023-04-01",
+    "name": "The Mystic Realm",
+    "channel": "Netflix",
+    "vote_average": 8.3,
+    "vote_count": 38
+  },
+  {
+    "id": 51,
+    "genres": [
+      "Comedy"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Roommates",
+    "overview": "A comedic look at the lives of three mismatched roommates navigating the ups and downs of life in the big city, with plenty of laughs and heartwarming moments along the way.",
+    "popularity": 1476.12,
+    "first_air_date": "2022-08-15",
+    "name": "Roommates",
+    "channel": "TLC",
+    "vote_average": 7.5,
+    "vote_count": 29
+  },
+  {
+    "id": 52,
+    "genres": [
+      "Drama"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Broken Dreams",
+    "overview": "A compelling drama that delves into the lives of individuals struggling to overcome personal and societal challenges, highlighting their resilience and determination.",
+    "popularity": 1435.67,
+    "first_air_date": "2022-11-10",
+    "name": "Broken Dreams",
+    "channel": "Netflix",
+    "vote_average": 8.1,
+    "vote_count": 31
+  },
+  {
+    "id": 53,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "The Dragon's Quest",
+    "overview": "A grand adventure series that follows a group of heroes as they journey through mystical lands, battling formidable foes and uncovering ancient secrets to save their world.",
+    "popularity": 1674.89,
+    "first_air_date": "2023-01-05",
+    "name": "The Dragon's Quest",
+    "channel": "Crave",
+    "vote_average": 8.6,
+    "vote_count": 40
+  },
+  {
+    "id": 54,
+    "genres": [
+      "Comedy"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Office Shenanigans",
+    "overview": "A hilarious comedy series that captures the daily antics and humorous escapades of employees working at a quirky tech startup, where chaos is the norm.",
+    "popularity": 1387.45,
+    "first_air_date": "2022-09-17",
+    "name": "Office Shenanigans",
+    "channel": "Apple",
+    "vote_average": 7.7,
+    "vote_count": 27
+  },
+  {
+    "id": 55,
+    "genres": [
+      "Science Fiction"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Quantum Leap",
+    "overview": "A futuristic sci-fi series where a scientist travels through time and space, righting wrongs and altering the course of history, one leap at a time.",
+    "popularity": 1645.32,
+    "first_air_date": "2023-02-22",
+    "name": "Quantum Leap",
+    "channel": "TLC",
+    "vote_average": 8.4,
+    "vote_count": 34
+  },
+  {
+    "id": 56,
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Cold Case Files",
+    "overview": "A gripping crime series that dives deep into unsolved cases, unraveling complex mysteries and bringing justice to long-forgotten victims through new investigative techniques.",
+    "popularity": 1532.78,
+    "first_air_date": "2021-11-30",
+    "name": "Cold Case Files",
+    "channel": "Hayu",
+    "vote_average": 8.1,
+    "vote_count": 33
+  },
+  {
+    "id": 57,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "origin_country": [
+      "US",
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Oceans Apart",
+    "overview": "A touching romantic drama that follows the lives of two lovers separated by oceans and circumstances, as they struggle to keep their love alive against all odds.",
+    "popularity": 1467.89,
+    "first_air_date": "2022-06-14",
+    "name": "Oceans Apart",
+    "channel": "Crave",
+    "vote_average": 7.9,
+    "vote_count": 28
+  },
+  {
+    "id": 58,
+    "genres": [
+      "Action"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Urban Warriors",
+    "overview": "A high-octane action series that follows a team of vigilantes fighting crime and corruption in the dangerous streets of a sprawling metropolis.",
+    "popularity": 1765.34,
+    "first_air_date": "2023-05-07",
+    "name": "Urban Warriors",
+    "channel": "Apple",
+    "vote_average": 8.5,
+    "vote_count": 39
+  },
+  {
+    "id": 59,
+    "genres": [
+      "Thriller"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Edge of Darkness",
+    "overview": "A suspenseful thriller series where a former detective is pulled back into a world of danger and deceit as he hunts down a shadowy figure from his past.",
+    "popularity": 1553.78,
+    "first_air_date": "2022-10-20",
+    "name": "The Edge of Darkness",
+    "channel": "Hayu",
+    "vote_average": 8.3,
+    "vote_count": 30
+  },
+  {
+    "id": 60,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Untold Legends",
+    "overview": "A captivating documentary series that brings to light the untold stories of historical figures, exploring their lives and contributions to history.",
+    "popularity": 1434.56,
+    "first_air_date": "2021-07-09",
+    "name": "Untold Legends",
+    "channel": "Paramount",
+    "vote_average": 8.7,
+    "vote_count": 36
+  },
+  {
+    "id": 61,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Family Matters",
+    "overview": "A heartwarming dramedy that follows the lives of a tight-knit family as they navigate the ups and downs of life, love, and laughter.",
+    "popularity": 1478.45,
+    "first_air_date": "2022-02-27",
+    "name": "Family Matters",
+    "channel": "Apple",
+    "vote_average": 7.8,
+    "vote_count": 29
+  },
+  {
+    "id": 62,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Lost Signal",
+    "overview": "A gripping mystery series that follows a team of investigators as they uncover the truth behind a series of inexplicable events linked to a mysterious radio signal.",
+    "popularity": 1665.89,
+    "first_air_date": "2023-03-14",
+    "name": "The Lost Signal",
+    "channel": "Netflix",
+    "vote_average": 8.4,
+    "vote_count": 37
+  },
+  {
+    "id": 63,
+    "genres": [
+      "Fantasy"
+    ],
+    "origin_country": [
+      "US",
+      "NZ"
+    ],
+    "original_language": "en",
+    "original_name": "Kingdom of Shadows",
+    "overview": "In a world where mythical creatures and humans coexist, a young warrior embarks on a quest to defeat a dark sorcerer and restore peace to the kingdom.",
+    "popularity": 1754.23,
+    "first_air_date": "2023-05-22",
+    "name": "Kingdom of Shadows",
+    "channel": "Netflix",
+    "vote_average": 8.6,
+    "vote_count": 40
+  },
+  {
+    "id": 64,
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Future Worlds",
+    "overview": "A thought-provoking sci-fi drama that explores the impact of advanced technology and artificial intelligence on human society in a not-so-distant future.",
+    "popularity": 1612.34,
+    "first_air_date": "2023-04-08",
+    "name": "Future Worlds",
+    "channel": "Hayu",
+    "vote_average": 8.5,
+    "vote_count": 38
+  },
+  {
+    "id": 65,
+    "genres": [
+      "Crime"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Underworld Kings",
+    "overview": "A gritty crime series that delves into the power struggles and brutal rivalries within a powerful crime family, as they navigate the treacherous underworld.",
+    "popularity": 1598.76,
+    "first_air_date": "2023-01-15",
+    "name": "Underworld Kings",
+    "channel": "Netflix",
+    "vote_average": 8.3,
+    "vote_count": 36
+  },
+  {
+    "id": 66,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Shadow Hunters",
+    "overview": "A pulse-pounding action-adventure series that follows a team of elite operatives as they battle sinister forces and uncover ancient secrets hidden in the shadows.",
+    "popularity": 1673.45,
+    "first_air_date": "2023-02-28",
+    "name": "Shadow Hunters",
+    "channel": "Crave",
+    "vote_average": 8.5,
+    "vote_count": 39
+  },
+  {
+    "id": 67,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Summer Breeze",
+    "overview": "A captivating drama series set against the backdrop of a picturesque seaside town, where love, betrayal, and secrets collide during one unforgettable summer.",
+    "popularity": 1425.89,
+    "first_air_date": "2022-07-05",
+    "name": "Summer Breeze",
+    "channel": "Apple",
+    "vote_average": 7.8,
+    "vote_count": 30
+  },
+  {
+    "id": 68,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Echoes of Eternity",
+    "overview": "A sweeping fantasy adventure that follows a group of heroes as they journey across magical realms, battling ancient evils and forging alliances to save their world.",
+    "popularity": 1587.23,
+    "first_air_date": "2023-03-01",
+    "name": "Echoes of Eternity",
+    "channel": "Hayu",
+    "vote_average": 8.4,
+    "vote_count": 37
+  },
+  {
+    "id": 69,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Crazy Cousins",
+    "overview": "A hilarious comedy series that follows the misadventures of a quirky family as they navigate the ups and downs of life, love, and family bonds.",
+    "popularity": 1463.78,
+    "first_air_date": "2022-11-18",
+    "name": "Crazy Cousins",
+    "channel": "TLC",
+    "vote_average": 7.7,
+    "vote_count": 31
+  },
+  {
+    "id": 70,
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Secrets & Lies",
+    "overview": "A gripping mystery drama that follows a detective as he unravels a tangled web of secrets and lies, leading to shocking revelations and devastating consequences.",
+    "popularity": 1556.34,
+    "first_air_date": "2022-10-28",
+    "name": "Secrets & Lies",
+    "channel": "Crave",
+    "vote_average": 8.2,
+    "vote_count": 33
+  },
+  {
+    "id": 71,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Mind Games",
+    "overview": "A mind-bending sci-fi thriller series that explores the blurred lines between reality and illusion, as characters grapple with the consequences of meddling with consciousness.",
+    "popularity": 1632.56,
+    "first_air_date": "2023-04-20",
+    "name": "Mind Games",
+    "channel": "Netflix",
+    "vote_average": 8.3,
+    "vote_count": 35
+  },
+  {
+    "id": 72,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Undercover Justice",
+    "overview": "A gritty action-packed crime series where an undercover cop infiltrates a ruthless criminal organization, risking everything to bring down the kingpin from within.",
+    "popularity": 1590.78,
+    "first_air_date": "2023-01-20",
+    "name": "Undercover Justice",
+    "channel": "Hayu",
+    "vote_average": 8.2,
+    "vote_count": 34
+  },
+  {
+    "id": 73,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Whispers of Magic",
+    "overview": "A captivating fantasy drama that follows the intertwined destinies of individuals with magical abilities, as they navigate love, loss, and the perils of wielding extraordinary powers.",
+    "popularity": 1623.89,
+    "first_air_date": "2022-09-30",
+    "name": "Whispers of Magic",
+    "channel": "Crave",
+    "vote_average": 8.3,
+    "vote_count": 36
+  },
+  {
+    "id": 74,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Love & Laughter",
+    "overview": "A delightful romantic comedy series that follows the hilarious misadventures of a group of friends navigating the highs and lows of love and relationships.",
+    "popularity": 1505.67,
+    "first_air_date": "2022-08-25",
+    "name": "Love & Laughter",
+    "channel": "TLC",
+    "vote_average": 7.9,
+    "vote_count": 32
+  },
+  {
+    "id": 75,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Dark Whispers",
+    "overview": "A gripping psychological thriller that delves into the darkest corners of the human psyche, as characters grapple with their inner demons and hidden secrets.",
+    "popularity": 1578.45,
+    "first_air_date": "2022-11-05",
+    "name": "Dark Whispers",
+    "channel": "Crave",
+    "vote_average": 8.1,
+    "vote_count": 33
+  },
+  {
+    "id": 76,
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Rogue Explorers",
+    "overview": "An adrenaline-fueled adventure series that follows a group of daring explorers as they journey to uncharted territories, facing danger and discovery at every turn.",
+    "popularity": 1647.89,
+    "first_air_date": "2023-02-15",
+    "name": "Rogue Explorers",
+    "channel": "Netflix",
+    "vote_average": 8.4,
+    "vote_count": 37
+  },
+  {
+    "id": 77,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Chaos & Cuddles",
+    "overview": "A heartwarming comedy series that follows the chaotic yet endearing antics of a large blended family, as they navigate the ups and downs of modern family life.",
+    "popularity": 1523.67,
+    "first_air_date": "2022-07-30",
+    "name": "Chaos & Cuddles",
+    "channel": "Crave",
+    "vote_average": 7.8,
+    "vote_count": 31
+  },
+  {
+    "id": 78,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Echoes of the Past",
+    "overview": "A haunting drama series that explores the lingering echoes of past traumas and secrets, as characters confront their personal demons and strive for redemption.",
+    "popularity": 1589.34,
+    "first_air_date": "2023-03-08",
+    "name": "Echoes of the Past",
+    "channel": "Hayu",
+    "vote_average": 8.2,
+    "vote_count": 35
+  },
+  {
+    "id": 79,
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Parallel Worlds",
+    "overview": "A mind-bending sci-fi drama that explores the existence of parallel universes, where characters grapple with alternate versions of themselves and the consequences of their choices.",
+    "popularity": 1643.21,
+    "first_air_date": "2023-01-10",
+    "name": "Parallel Worlds",
+    "channel": "Crave",
+    "vote_average": 8.3,
+    "vote_count": 38
+  },
+  {
+    "id": 80,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Code Red",
+    "overview": "A pulse-pounding action thriller series where a team of elite operatives must race against time to prevent a global catastrophe orchestrated by a shadowy organization.",
+    "popularity": 1675.89,
+    "first_air_date": "2023-02-05",
+    "name": "Code Red",
+    "channel": "Netflix",
+    "vote_average": 8.5,
+    "vote_count": 40
+  },
+  {
+    "id": 81,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "origin_country": [
+      "US",
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Love in Bloom",
+    "overview": "A poignant romantic drama that follows the intertwined lives of individuals from different walks of life, as they experience the joys and heartaches of love in all its forms.",
+    "popularity": 1547.78,
+    "first_air_date": "2022-06-25",
+    "name": "Love in Bloom",
+    "channel": "Crave",
+    "vote_average": 8,
+    "vote_count": 32
+  },
+  {
+    "id": 82,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Legends of the Wild",
+    "overview": "An epic fantasy adventure series that follows a band of heroes as they embark on a perilous quest to retrieve a legendary artifact and save their kingdom from darkness.",
+    "popularity": 1621.56,
+    "first_air_date": "2023-05-15",
+    "name": "Legends of the Wild",
+    "channel": "Netflix",
+    "vote_average": 8.4,
+    "vote_count": 38
+  },
+  {
+    "id": 83,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Life in Pieces",
+    "overview": "A heartwarming comedy-drama series that follows the lives of four generations of a quirky family, as they navigate the joys and challenges of life, love, and family bonds.",
+    "popularity": 1498.67,
+    "first_air_date": "2022-08-05",
+    "name": "Life in Pieces",
+    "channel": "Apple",
+    "vote_average": 7.9,
+    "vote_count": 33
+  },
+  {
+    "id": 84,
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "The Silent Witness",
+    "overview": "A gripping mystery crime series that follows a forensic pathologist as she unravels complex cases, piecing together clues and uncovering the truth behind grisly murders.",
+    "popularity": 1563.78,
+    "first_air_date": "2022-11-15",
+    "name": "The Silent Witness",
+    "channel": "Crave",
+    "vote_average": 8.2,
+    "vote_count": 34
+  },
+  {
+    "id": 85,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Deadly Pursuit",
+    "overview": "A high-stakes thriller series where a former CIA operative is forced out of retirement to track down a dangerous terrorist, leading to a deadly game of cat and mouse.",
+    "popularity": 1600.89,
+    "first_air_date": "2023-03-25",
+    "name": "Deadly Pursuit",
+    "channel": "Crave",
+    "vote_average": 8.3,
+    "vote_count": 36
+  },
+  {
+    "id": 86,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Realm of Dreams",
+    "overview": "A mesmerizing fantasy drama series that transports viewers to a magical realm where dreams and reality intertwine, revealing hidden truths and unlocking untapped potential.",
+    "popularity": 1592.34,
+    "first_air_date": "2023-04-10",
+    "name": "Realm of Dreams",
+    "channel": "Netflix",
+    "vote_average": 8.2,
+    "vote_count": 35
+  },
+  {
+    "id": 87,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Love on the Rocks",
+    "overview": "A charming romantic comedy series that follows the romantic misadventures of a group of friends as they navigate love, friendship, and the complexities of modern dating.",
+    "popularity": 1556.78,
+    "first_air_date": "2022-07-20",
+    "name": "Love on the Rocks",
+    "channel": "Crave",
+    "vote_average": 8,
+    "vote_count": 32
+  },
+  {
+    "id": 88,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Wild Frontier",
+    "overview": "An action-packed adventure series set in the untamed wilderness, where brave explorers must navigate treacherous terrain and confront wild beasts to uncover hidden treasures.",
+    "popularity": 1612.56,
+    "first_air_date": "2023-02-10",
+    "name": "Wild Frontier",
+    "channel": "Netflix",
+    "vote_average": 8.3,
+    "vote_count": 37
+  },
+  {
+    "id": 89,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "origin_country": [
+      "US",
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Undercover",
+    "overview": "A gripping crime drama series that follows an undercover detective as he infiltrates a notorious crime syndicate, risking his life to bring down the criminal mastermind at its helm.",
+    "popularity": 1587.67,
+    "first_air_date": "2022-06-30",
+    "name": "Undercover",
+    "channel": "Apple",
+    "vote_average": 8.1,
+    "vote_count": 33
+  },
+  {
+    "id": 90,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Mind Games",
+    "overview": "A psychological thriller series that delves into the twisted minds of serial killers, as a brilliant criminal psychologist uses unconventional methods to solve the most baffling cases.",
+    "popularity": 1565.89,
+    "first_air_date": "2023-01-25",
+    "name": "Mind Games",
+    "channel": "Hayu",
+    "vote_average": 8.2,
+    "vote_count": 34
+  },
+  {
+    "id": 91,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Quest for Destiny",
+    "overview": "An epic fantasy adventure series that follows a group of heroes as they embark on a perilous quest to fulfill their destinies and save their kingdom from an ancient evil.",
+    "popularity": 1623.78,
+    "first_air_date": "2023-05-01",
+    "name": "Quest for Destiny",
+    "channel": "Crave",
+    "vote_average": 8.3,
+    "vote_count": 38
+  },
+  {
+    "id": 92,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Life of Riley",
+    "overview": "A heartwarming comedy-drama series that follows the ups and downs of everyday life through the lens of a lovable everyman, as he navigates love, family, and career challenges.",
+    "popularity": 1512.45,
+    "first_air_date": "2022-09-05",
+    "name": "Life of Riley",
+    "channel": "TLC",
+    "vote_average": 8,
+    "vote_count": 32
+  },
+  {
+    "id": 93,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "origin_country": [
+      "US",
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Hearts Entwined",
+    "overview": "A heartfelt romantic drama series that follows the interconnected lives of individuals whose fates become intertwined through chance encounters and unexpected connections.",
+    "popularity": 1578.67,
+    "first_air_date": "2022-06-05",
+    "name": "Hearts Entwined",
+    "channel": "Apple",
+    "vote_average": 8.1,
+    "vote_count": 33
+  },
+  {
+    "id": 94,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Bloodlines",
+    "overview": "A gritty action-packed crime series that follows a detective as he navigates the dangerous underworld of organized crime, uncovering dark secrets and confronting ruthless adversaries.",
+    "popularity": 1590.56,
+    "first_air_date": "2023-01-30",
+    "name": "Bloodlines",
+    "channel": "Netflix",
+    "vote_average": 8.2,
+    "vote_count": 34
+  },
+  {
+    "id": 95,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "The Enigma Files",
+    "overview": "A gripping mystery thriller series that follows a team of investigators as they unravel complex puzzles and untangle sinister conspiracies, leading to shocking revelations.",
+    "popularity": 1567.89,
+    "first_air_date": "2022-11-20",
+    "name": "The Enigma Files",
+    "channel": "Crave",
+    "vote_average": 8.2,
+    "vote_count": 35
+  },
+  {
+    "id": 96,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "origin_country": [
+      "US",
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Chronicles of Arcadia",
+    "overview": "A sweeping fantasy adventure series that transports viewers to the magical realm of Arcadia, where heroes must band together to thwart the dark forces threatening to plunge the world into chaos.",
+    "popularity": 1623.45,
+    "first_air_date": "2023-05-20",
+    "name": "Chronicles of Arcadia",
+    "channel": "Apple",
+    "vote_average": 8.3,
+    "vote_count": 36
+  },
+  {
+    "id": 97,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "origin_country": [
+      "US",
+      "UK"
+    ],
+    "original_language": "en",
+    "original_name": "Family Matters",
+    "overview": "A heartwarming comedy-drama series that explores the complexities of modern family life, as three generations come together under one roof, navigating love, laughter, and life's challenges.",
+    "popularity": 1532.67,
+    "first_air_date": "2022-08-10",
+    "name": "Family Matters",
+    "channel": "Crave",
+    "vote_average": 8,
+    "vote_count": 32
+  },
+  {
+    "id": 98,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Broken Silence",
+    "overview": "A gripping mystery drama series that follows a journalist as she investigates a string of unsolved murders, uncovering dark secrets and dangerous truths hidden beneath the surface.",
+    "popularity": 1576.78,
+    "first_air_date": "2022-11-25",
+    "name": "Broken Silence",
+    "channel": "Netflix",
+    "vote_average": 8.1,
+    "vote_count": 33
+  },
+  {
+    "id": 99,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Edge of Darkness",
+    "overview": "A high-octane thriller series that follows a former special forces operative as he embarks on a mission of vengeance, tracking down the shadowy figures responsible for his family's murder.",
+    "popularity": 1602.56,
+    "first_air_date": "2023-03-30",
+    "name": "Edge of Darkness",
+    "channel": "Netflix",
+    "vote_average": 8.3,
+    "vote_count": 36
+  },
+  {
+    "id": 100,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "origin_country": [
+      "US",
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Frontier",
+    "overview": "An adrenaline-fueled action-adventure series that follows a group of intrepid explorers as they venture into uncharted territories, facing danger and discovery at every turn.",
+    "popularity": 1610.78,
+    "first_air_date": "2023-02-20",
+    "name": "Frontier",
+    "channel": "Apple",
+    "vote_average": 8.4,
+    "vote_count": 37
+  }
+]
